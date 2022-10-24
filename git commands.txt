@@ -15,4 +15,5 @@
 # git merge
 # git rebase
 # git -b branch repourl
+# git config
 
