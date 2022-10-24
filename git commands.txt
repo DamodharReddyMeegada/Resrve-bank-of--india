@@ -16,4 +16,5 @@
 # git rebase
 # git -b branch repourl
 # git config
-developed one
+removed develoed
+
