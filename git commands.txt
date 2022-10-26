@@ -12,6 +12,7 @@
 # git config
 # git checkout
 # git branch
+# git pull request out
 # git merge
 # git rebase
 # git -b branch repourl
